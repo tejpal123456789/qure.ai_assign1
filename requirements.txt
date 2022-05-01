@@ -1,0 +1,5 @@
+streamlit == 0.73.1
+torch == 1.11.0
+cv2 ==4.5.5
+PIL == 9.1.0
+torchvision == 0.12.0
